@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignore client secrets file
+client_secrets.json
+
+#ignore token recieved from gmail api
+token.json
+
+
